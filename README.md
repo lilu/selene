@@ -1,2 +1,2 @@
-# selene
+# Selene
 Sister of eos
